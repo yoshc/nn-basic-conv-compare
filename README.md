@@ -7,3 +7,6 @@
 2. Comparing their accuracy
 3. Determining which images are **recognized by the _convolutional_ neural network, but not by the _basic neural network_**, and plotting them  
 ---
+
+### Note:
+Convolutional neural network is not yet implemented
