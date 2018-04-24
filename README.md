@@ -8,6 +8,8 @@
 3. Determining which images are **recognized by the _convolutional_ neural network, but not by the _basic neural network_**
 ---
 
+[Click here to view the code](./nn-basic-conv-compare.ipynb)
+
 ### Note:
 The hyperparameters are not optimized yet!
 With the specified hyperparameters, the convolutional neural network might take a while to fit the data.
